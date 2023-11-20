@@ -12,7 +12,7 @@ All reports must be sent using HackenProof’s [secure dashboard](https://hacken
 
 You should receive an acknowledgement of your report within 48 hours for critical vulnerabilities and 96 hours for all other vulnerabilities.
 
-If you do not get a response, contact info@hackenproof.com. DO NOT include attachments or provide detail regarding the security issue.
+If your do not get a response, contact info@hackenproof.com. DO NOT include attachments or provide detail regarding the security issue.
 
 If you are reporting something outside the scope of HackenProof's Bug Bounty Program for Sui, contact [security@sui.io](mailto:security@sui.io)
 
