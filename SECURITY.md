@@ -10,7 +10,7 @@ If you have any questions or concerns, contact [support@hackenproof.com](mailto:
 
 All reports must be sent using HackenProof’s [secure dashboard](https://hackenproof.com/sui/sui/). **DO NOT report a security issue using GitHub, email, or Discord.**
 
-You should receive an acknowledgement of your report within 48 hours for critical vulnerabilities and 96 hours for all other vulnerabilities.
+You should receive an acknowledgement of you report within 48 hours for critical vulnerabilities and 96 hours for all other vulnerabilities.
 
 If your do not get a response, contact info@hackenproof.com. DO NOT include attachments or provide detail regarding the security issue.
 
